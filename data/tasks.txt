@@ -1,0 +1,5 @@
+test2, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program, 10 Oct 2019, 31 Aug 2023, No
+Chad, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Jun 2023, No
+admin, design the backend of the new web app, design using django, 13 Jul 2023, 08 Aug 2022, Yes
+Chad, Design the frontend of the new web app, design the frontend to communicate well with the backend architecture, 13 Jul 2023, 20 Aug 2023, Yes
+test2, testing title, test descrip 2, 18 Jul 2023, 25 Aug 2044, No

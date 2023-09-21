@@ -1,0 +1,33 @@
+USER OVERVIEW:
+Total number of users registered: 4
+Total number of tasks generated: 5
+
+admin:
+Total number of tasks assigned to the user: 1
+Percentage of the total tasks assigned to the user: 20.0%
+Percentage of tasks assigned to the user that have been completed: 100.0%
+Percentage of tasks assigned to the user that have not been completed: 0.0%
+Percentage of tasks assigned to the user that are overdue: 0.0% 
+
+Chad:
+Total number of tasks assigned to the user: 2
+Percentage of the total tasks assigned to the user: 40.0%
+Percentage of tasks assigned to the user that have been completed: 50.0%
+Percentage of tasks assigned to the user that have not been completed: 50.0%
+Percentage of tasks assigned to the user that are overdue: 50.0% 
+
+test:
+Total number of tasks assigned to the user: 0
+Percentage of the total tasks assigned to the user: 0%
+Percentage of tasks assigned to the user that have been completed: 0%
+Percentage of tasks assigned to the user that have not been completed: 0%
+Percentage of tasks assigned to the user that are overdue: 0% 
+
+test2:
+Total number of tasks assigned to the user: 2
+Percentage of the total tasks assigned to the user: 40.0%
+Percentage of tasks assigned to the user that have been completed: 0.0%
+Percentage of tasks assigned to the user that have not been completed: 100.0%
+Percentage of tasks assigned to the user that are overdue: 0.0% 
+
+
